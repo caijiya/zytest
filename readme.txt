@@ -4,3 +4,4 @@ hahh sb
 Git has a mutable index called stage
 dev xiugai
 Git tracks changes
+readme.text master
