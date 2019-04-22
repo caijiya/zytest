@@ -9,3 +9,5 @@ readme.text master
 Creating a new branch is quick And simple
 xiugai dev
 bug改好了
+test stash功能
+
